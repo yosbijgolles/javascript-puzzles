@@ -49,7 +49,7 @@ class DeportesDeEquipo extends Deportes {
 
 const Futbol = new DeportesDeEquipo("Futbol", true, 11);
 const Basket = new DeportesDeEquipo("Basket", true, 5);
-const Tenis = new DeportesDeEquipo("Tenis", true, 2);
+const Tenis = new DeportesDeEquipo("Tenis", false, 2);
 
 console.log(Futbol.indicacion());
 
