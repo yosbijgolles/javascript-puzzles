@@ -6,12 +6,12 @@ y un metodo que permita mostrar por consola ese nombre.
 Ademas, crear un metodo que permita mostrar si el deporte es
 individual o por equipos.
 
-Crear una subclase que sea DeportesDeEquipo que permita ademas del nombre, 
-el numero de integrantes que deben formar parte de ese equipo. 
+Crear una subclase que sea DeportesDeEquipo que permita ademas del nombre,
+el numero de integrantes que deben formar parte de ese equipo.
 Crear un metodo para
-mostrar el siguiente mensaje: 
+mostrar el siguiente mensaje:
 "Para jugar al futbol necesitas 11 jugadores por equipo".
- Tener en cuenta que 'futbol' y 11 son valores que 
+ Tener en cuenta que 'futbol' y 11 son valores que
  pueden variar dependiedo
  del deporte (por ejemplo, si fuese basket, seria 5 jugadores)
 
@@ -66,7 +66,7 @@ REALIZAR LAS SIGUIENTES TAREAS:
 a) Mostrar por consola los productos que llevo cada uno
 (solo el nombre del producto)
 
-b) En el camino al picnic, la bolsa de Andrea se rompio, 
+b) En el camino al picnic, la bolsa de Andrea se rompio,
 por lo que tuvieron que poner todo en la bolsa de Martin.
 Realizar el cambio correspondiente para que la bolsa de Martin
 tenga el total de los productos del picnic.
